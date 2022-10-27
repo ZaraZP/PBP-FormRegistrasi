@@ -1,5 +1,5 @@
 # PBP-FormRegistrasi
-Anggota Kelompok:
+Kelompok 7
 1. Agnes Triana Cyntianesa (24060120120021)
 2. Arifa Alif Malicha Khairunnisa (24060120120033)
 3. Dimas Wahyu Ardiyanto (24060120140159)
